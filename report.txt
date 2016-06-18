@@ -1,0 +1,2 @@
+To make this algorithm generalized i set a Divergence Criteria = 0.05 when value of sum of square error becomes 
+less than Divergence Criteria then iteration loop will diverge.
